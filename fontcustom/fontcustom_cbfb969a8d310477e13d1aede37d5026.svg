@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-4-26: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Sun Apr 26 15:06:07 2015
+ By muzikayise,,,
+Created by muzikayise,,, with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="fontcustom" horiz-adv-x="200" >
+  <font-face 
+    font-family="fontcustom"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="86.3906 -64.001 425.61 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" horiz-adv-x="512" 
+d="M343.831 168.29l81.0518 -216.615c1.32031 -3.5957 0.822266 -7.5625 -1.33496 -10.666c-2.18652 -3.15332 -5.73535 -5.00977 -9.53516 -5.00977h-64.79c-4.86328 0 -9.25 3.08887 -10.8994 7.66504l-73.3535 202.548h-92.7637v-198.593
+c0 -6.40332 -5.19336 -11.6113 -11.5928 -11.6113h-62.626c-6.3916 0 -11.5967 5.20801 -11.5967 11.6113v488.385c0 6.3916 5.18945 11.5889 11.5674 11.6074l120.204 0.388672c69.9385 0 115.635 -13.1367 148.202 -42.5869
+c27.0508 -23.8779 41.9697 -59.6621 41.9697 -100.731c0 -58.1504 -18.124 -96.665 -64.5029 -136.392zM322.502 297.465c0 51.7598 -33.6465 78.3779 -100.02 79.1221l-50.2764 -0.0693359v-159.602h52.4766c59.4219 0 97.8193 31.6279 97.8193 80.5488z" />
+  </font>
+</defs></svg>
